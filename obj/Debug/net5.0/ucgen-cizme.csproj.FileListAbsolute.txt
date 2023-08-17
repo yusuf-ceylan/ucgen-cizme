@@ -1,0 +1,15 @@
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.exe
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.deps.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.runtimeconfig.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.runtimeconfig.dev.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\bin\Debug\net5.0\ucgen-cizme.pdb
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.AssemblyInfoInputs.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.AssemblyInfo.cs
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\obj\Debug\net5.0\refint\ucgen-cizme.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.pdb
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\obj\Debug\net5.0\ucgen-cizme.genruntimeconfig.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\ucgen-cizme\obj\Debug\net5.0\ref\ucgen-cizme.dll
